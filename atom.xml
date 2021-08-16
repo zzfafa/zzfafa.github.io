@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://zzfafa.github.io/atom.xml" rel="self"/>
+  <link href="https://zzfafa.space/atom.xml" rel="self"/>
   
-  <link href="https://zzfafa.github.io/"/>
+  <link href="https://zzfafa.space/"/>
   <updated>2021-08-16T03:40:35.430Z</updated>
-  <id>https://zzfafa.github.io/</id>
+  <id>https://zzfafa.space/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://zzfafa.github.io/2021/08/16/hello-world/"/>
-    <id>https://zzfafa.github.io/2021/08/16/hello-world/</id>
+    <link href="https://zzfafa.space/2021/08/16/hello-world/"/>
+    <id>https://zzfafa.space/2021/08/16/hello-world/</id>
     <published>2021-08-16T03:40:35.430Z</published>
     <updated>2021-08-16T03:40:35.430Z</updated>
     
